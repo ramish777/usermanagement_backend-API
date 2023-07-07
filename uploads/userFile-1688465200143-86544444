@@ -1,0 +1,4 @@
+Name,Email,Mobile_phone,Direct_Mobile,Job_Tiltle,Department,Hire_Date,Employee_ID,Address_1,Address_2,City,State,Postal_Code,Device_name_1,Device_Type_1,Device_serial_1,Model_1,Make_1,Asset_Tag_1,Device_name_2,Device_Type_2,Device_serial_2,Model_2,Make_2,Asset_Tag_2,Device_name_3,Device_Type_3,Device_serial_3,Model_3,Make_3,Asset_Tag_3,Device_name_4,Device_Type_4,Device_serial_4,Model_4,Make_4,Asset_Tag_4
+ABC,ABC123@gmail.com,12345678,1234567,EFGH,CC,02/02/2020,1,ABC,ABC,MNO,123AB,1234,laptop,LAPTOP,234567899,1234,abc,100,Headphone,HEAD_SET,2356655443,1235,addad,200,abcd,abcd,2356655443,1235,addad,300,,,,,,
+CEO,ADFG@gmail.com,3447698398274,42524253,ABCDGF,AA,02/03/2022,2,CEF,QPO,LMBN,abcd,1224,eeeee,fffffff,242564563,1234,avbg,400,wfegs,sgdgr,243547666,1342,scscz,500,wfegs,sgdgr,243547666,1342,scscz,600,laptop,laptop,123456789,2019,ccthinkpad,700
+test,ADFGh@gmail.com,1234567890,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
